@@ -122,8 +122,3 @@ For full details, see files inside `00_How_It_Works/`.
 - `.env` is ignored through `.gitignore`; only `.env.example` is committed.
 - Python cache/editor temporary files are ignored.
 - Existing output files are kept as experiment artifacts.
-
-## License and Usage
-
-This archive is intended for portfolio/research reproducibility around the completed challenge.
-Verify any external challenge terms before redistributing raw datasets outside your private/team scope.
